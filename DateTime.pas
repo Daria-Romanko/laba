@@ -1,4 +1,5 @@
 ﻿begin
   var N := ReadInteger('Введите число');
-  println(N * 365);
+  println(N * 3600);
+  
 end.
