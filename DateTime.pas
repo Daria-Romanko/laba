@@ -1,4 +1,3 @@
 ﻿begin
-  println('True');
-  println(60)
+  println('Скоро новый год');
 end.
